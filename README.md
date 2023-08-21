@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rafael
 
-- 🔭 Currently I work as web development with PHP, CakePHP, HTML, CSS, Bootstrap, PostgreSQL and MySQL technologies.
+- 🔭 Currently I work as web development with PHP, Laravel, CakePHP, HTML, CSS, Javascript, Typescript, Bootstrap, Tailwind CSS, PostgreSQL and MySQL technologies.
 - 🌱 I’m currently learning Javascript, Typescript and React. 
 - 📧 Contact: risaltte@gmail.com
 
